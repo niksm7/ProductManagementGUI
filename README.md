@@ -1,5 +1,12 @@
 # Product Management System 
 This is a Product Management system created with Tkinter which is the GUI tool of Python and pickle module is used for storage
+There are 3 files created for reusability to its code.
+The first file(first.py) contains the class Product.
+The second file(second.py) contains main functions of the buttons also the class is imported from first file.
+The third file(main.py) contains the GUI code along with the function also everything is imported from the second file.
+
+NOTE: YOU HAVE TO JUST RUN main.py BUT ALSO MAKE SURE OTHER TWO FILES ARE AT THE SAME PLACE.
+
 Here you can perform the following actions:
 * Add new products 
 * Update the existing products
