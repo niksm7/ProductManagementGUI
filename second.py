@@ -1,5 +1,5 @@
 from pickle import *
-from p2 import Product
+from first import Product
 
 def addnew(lst,k,pname,pprice,pstock,pcompany):
     flag = 1

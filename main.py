@@ -1,7 +1,7 @@
 import tkinter as tk
 import os
 from tkinter import messagebox
-from p3 import *
+from second import *
 
 window = tk.Tk() #Creating window
 window.geometry('690x420')
